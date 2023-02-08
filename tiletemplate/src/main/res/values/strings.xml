@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Template Tile</string>
+    <string name="template_tile_label">the template tile</string>
+    <string name="template_tile_description">a template tile!</string>
+    <string name="template_tile_body">The Template Tile!</string>
+</resources>
