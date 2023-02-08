@@ -22,7 +22,7 @@ import com.google.android.horologist.tiles.CoroutinesTileService
 
 private const val RESOURCES_VERSION = "0"
 
-class TemplateTileService : CoroutinesTileService() {
+class   TemplateTileService : CoroutinesTileService() {
 
     override suspend fun resourcesRequest(
         requestParams: RequestBuilders.ResourcesRequest
